@@ -1,0 +1,13 @@
+=============== The Stored Data ==============
+       Cabin 0 : empty
+       Cabin 1 : empty
+       Cabin 2 : empty
+       Cabin 3 : empty
+       Cabin 4 : empty
+       Cabin 5 : empty
+       Cabin 6 : empty
+       Cabin 7 : empty
+       Cabin 8 : empty
+       Cabin 9 : empty
+       Cabin 10 : empty
+       Cabin 11 : empty

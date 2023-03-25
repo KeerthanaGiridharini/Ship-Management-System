@@ -1,0 +1,44 @@
+=============== The Stored Data ==============
+
+       ===== Cabin 0 ==== 
+        (*) Passenger 1 : sdfds dfsg
+        (*) Passenger 2 : sfsfg fgdr
+
+       ===== Cabin 1 ==== 
+        (*) Passenger 1 : ere ere
+
+       ===== Cabin 2 ==== 
+        (*) Passenger 1 : efe ef
+
+       ===== Cabin 3 ==== 
+        (*) Passenger 1 : ae ae
+
+       ===== Cabin 4 ==== 
+        (*) Passenger 1 : ef ef
+
+       ===== Cabin 5 ==== 
+        (*) Passenger 1 : aefe efef
+
+       ===== Cabin 6 ==== 
+        (*) Passenger 1 : aeee eff
+
+       ===== Cabin 7 ==== 
+        (*) Passenger 1 : efe fvx
+
+       ===== Cabin 8 ==== 
+        (*) Passenger 1 : wew wff
+
+       ===== Cabin 9 ==== 
+        (*) Passenger 1 : vx xvvd
+
+       ===== Cabin 10 ==== 
+        (*) Passenger 1 : vdv fdf
+
+       ===== Cabin 11 ==== 
+        (*) Passenger 1 : fdf dfd
+   
+
+____________ WAITING LIST____________
+        (*) Passenger 1 : uhl yjgj
+
+=====================================
